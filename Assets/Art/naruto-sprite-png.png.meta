@@ -1,0 +1,3636 @@
+fileFormatVersion: 2
+guid: 99573987f5722c647ac823345bd3b1da
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8685753608733156421
+    second: naruto-sprite-png_0
+  - first:
+      213: -5628371002516722610
+    second: naruto-sprite-png_1
+  - first:
+      213: -6592933712328051974
+    second: naruto-sprite-png_2
+  - first:
+      213: 2696647537456321709
+    second: naruto-sprite-png_3
+  - first:
+      213: -1241077918088385254
+    second: naruto-sprite-png_4
+  - first:
+      213: -7608457116182406851
+    second: naruto-sprite-png_5
+  - first:
+      213: -5487034030278720756
+    second: naruto-sprite-png_6
+  - first:
+      213: 7096228819072721453
+    second: naruto-sprite-png_7
+  - first:
+      213: 8344395338380462810
+    second: naruto-sprite-png_8
+  - first:
+      213: -6704957821876248655
+    second: naruto-sprite-png_9
+  - first:
+      213: 3987155760242881930
+    second: naruto-sprite-png_10
+  - first:
+      213: -4896467374407168639
+    second: naruto-sprite-png_11
+  - first:
+      213: -1567842982764217648
+    second: naruto-sprite-png_12
+  - first:
+      213: 1226231967736294577
+    second: naruto-sprite-png_13
+  - first:
+      213: 1920369532610288009
+    second: naruto-sprite-png_14
+  - first:
+      213: -6184499701400921944
+    second: naruto-sprite-png_15
+  - first:
+      213: -6666617133079216627
+    second: naruto-sprite-png_16
+  - first:
+      213: -5365227689089415026
+    second: naruto-sprite-png_17
+  - first:
+      213: -4237310230511146674
+    second: naruto-sprite-png_18
+  - first:
+      213: 4047357505249813949
+    second: naruto-sprite-png_19
+  - first:
+      213: -1057075446187254230
+    second: naruto-sprite-png_20
+  - first:
+      213: -8958377244736635834
+    second: naruto-sprite-png_21
+  - first:
+      213: 4863478705718883761
+    second: naruto-sprite-png_22
+  - first:
+      213: 3458942695224515428
+    second: naruto-sprite-png_23
+  - first:
+      213: 258570449354486417
+    second: naruto-sprite-png_24
+  - first:
+      213: -2210329122832677679
+    second: naruto-sprite-png_25
+  - first:
+      213: 2681452461646661255
+    second: naruto-sprite-png_26
+  - first:
+      213: 5153522666698621394
+    second: naruto-sprite-png_27
+  - first:
+      213: -8769300741050766196
+    second: naruto-sprite-png_28
+  - first:
+      213: -7159354555980668905
+    second: naruto-sprite-png_29
+  - first:
+      213: -8822030480597281651
+    second: naruto-sprite-png_30
+  - first:
+      213: 4595018349150630747
+    second: naruto-sprite-png_31
+  - first:
+      213: -5389227681102573427
+    second: naruto-sprite-png_32
+  - first:
+      213: 1870512995200354992
+    second: naruto-sprite-png_33
+  - first:
+      213: -2886146828643531112
+    second: naruto-sprite-png_34
+  - first:
+      213: 663945860534893901
+    second: naruto-sprite-png_35
+  - first:
+      213: -593461243830164798
+    second: naruto-sprite-png_36
+  - first:
+      213: 4237908186736819285
+    second: naruto-sprite-png_37
+  - first:
+      213: 4639336159736908968
+    second: naruto-sprite-png_38
+  - first:
+      213: 3162919439820085223
+    second: naruto-sprite-png_39
+  - first:
+      213: -1342817364883791990
+    second: naruto-sprite-png_40
+  - first:
+      213: 8756205976085744454
+    second: naruto-sprite-png_41
+  - first:
+      213: 9026182816962287230
+    second: naruto-sprite-png_42
+  - first:
+      213: -8449771803280214210
+    second: naruto-sprite-png_43
+  - first:
+      213: 680182904367834419
+    second: naruto-sprite-png_44
+  - first:
+      213: 5591525433653447657
+    second: naruto-sprite-png_45
+  - first:
+      213: -1620157878375424496
+    second: naruto-sprite-png_46
+  - first:
+      213: 1889792415682907985
+    second: naruto-sprite-png_47
+  - first:
+      213: -1599043984169332695
+    second: naruto-sprite-png_48
+  - first:
+      213: 3811935035054619923
+    second: naruto-sprite-png_49
+  - first:
+      213: -3015194398788286289
+    second: naruto-sprite-png_50
+  - first:
+      213: 7942055186075883577
+    second: naruto-sprite-png_51
+  - first:
+      213: 346878534783834959
+    second: naruto-sprite-png_52
+  - first:
+      213: -4482855024353550730
+    second: naruto-sprite-png_53
+  - first:
+      213: -2848231266808830769
+    second: naruto-sprite-png_54
+  - first:
+      213: 111420899274583227
+    second: naruto-sprite-png_55
+  - first:
+      213: -7980804555211591967
+    second: naruto-sprite-png_56
+  - first:
+      213: 568158497878125664
+    second: naruto-sprite-png_57
+  - first:
+      213: -6311838601678168624
+    second: naruto-sprite-png_58
+  - first:
+      213: 5718628626285799598
+    second: naruto-sprite-png_59
+  - first:
+      213: 2149782786765202706
+    second: naruto-sprite-png_60
+  - first:
+      213: -6438436851093839804
+    second: naruto-sprite-png_61
+  - first:
+      213: -2938379696938539557
+    second: naruto-sprite-png_62
+  - first:
+      213: 8083189547965941311
+    second: naruto-sprite-png_63
+  - first:
+      213: 1901614067503329330
+    second: naruto-sprite-png_64
+  - first:
+      213: -1180812661841950979
+    second: naruto-sprite-png_65
+  - first:
+      213: -8791378944096422652
+    second: naruto-sprite-png_66
+  - first:
+      213: -7473172456789699606
+    second: naruto-sprite-png_67
+  - first:
+      213: -2372201128219699550
+    second: naruto-sprite-png_68
+  - first:
+      213: -1611982354419437586
+    second: naruto-sprite-png_69
+  - first:
+      213: -3552030125432695362
+    second: naruto-sprite-png_70
+  - first:
+      213: -2813619291390627691
+    second: naruto-sprite-png_71
+  - first:
+      213: -686677057999927384
+    second: naruto-sprite-png_72
+  - first:
+      213: -4630543416653787973
+    second: naruto-sprite-png_73
+  - first:
+      213: 7075465196017682654
+    second: naruto-sprite-png_74
+  - first:
+      213: 1733398055425445689
+    second: naruto-sprite-png_75
+  - first:
+      213: 5507570447623128464
+    second: naruto-sprite-png_76
+  - first:
+      213: 6062126854900797979
+    second: naruto-sprite-png_77
+  - first:
+      213: -6631508951830018727
+    second: naruto-sprite-png_78
+  - first:
+      213: -4094266094975858833
+    second: naruto-sprite-png_79
+  - first:
+      213: -6133253048961280218
+    second: naruto-sprite-png_80
+  - first:
+      213: -8028556466625991608
+    second: naruto-sprite-png_81
+  - first:
+      213: -6264797629838640847
+    second: naruto-sprite-png_82
+  - first:
+      213: -7126964115352499807
+    second: naruto-sprite-png_83
+  - first:
+      213: -5631908491130950809
+    second: naruto-sprite-png_84
+  - first:
+      213: -15617970556690604
+    second: naruto-sprite-png_85
+  - first:
+      213: 5380211874622735761
+    second: naruto-sprite-png_86
+  - first:
+      213: -211002284715966060
+    second: naruto-sprite-png_87
+  - first:
+      213: -1720334494759825648
+    second: naruto-sprite-png_88
+  - first:
+      213: -5106029912196594125
+    second: naruto-sprite-png_89
+  - first:
+      213: -9138734383908643965
+    second: naruto-sprite-png_90
+  - first:
+      213: 8587736654619235470
+    second: naruto-sprite-png_91
+  - first:
+      213: -5346973229564472824
+    second: naruto-sprite-png_92
+  - first:
+      213: -8924299188596822156
+    second: naruto-sprite-png_93
+  - first:
+      213: 2096204413465223264
+    second: naruto-sprite-png_94
+  - first:
+      213: 7170499217922949071
+    second: naruto-sprite-png_95
+  - first:
+      213: -7844785136475180447
+    second: naruto-sprite-png_96
+  - first:
+      213: 6286758217901862013
+    second: naruto-sprite-png_97
+  - first:
+      213: 8254919756488512236
+    second: naruto-sprite-png_98
+  - first:
+      213: 2217303116228813910
+    second: naruto-sprite-png_99
+  - first:
+      213: 960820616359478799
+    second: naruto-sprite-png_100
+  - first:
+      213: 9106312538994453480
+    second: naruto-sprite-png_101
+  - first:
+      213: -7322214128141282661
+    second: naruto-sprite-png_102
+  - first:
+      213: -8070856056134932223
+    second: naruto-sprite-png_103
+  - first:
+      213: 722110037633320636
+    second: naruto-sprite-png_104
+  - first:
+      213: -5671662588042319069
+    second: naruto-sprite-png_105
+  - first:
+      213: 5066346335665324244
+    second: naruto-sprite-png_106
+  - first:
+      213: 4748018687757546193
+    second: naruto-sprite-png_107
+  - first:
+      213: 8464202211696293915
+    second: naruto-sprite-png_108
+  - first:
+      213: 8685885526155494116
+    second: naruto-sprite-png_109
+  - first:
+      213: -208316010529629193
+    second: naruto-sprite-png_110
+  - first:
+      213: 600196404473936366
+    second: naruto-sprite-png_111
+  - first:
+      213: -4137284083387786771
+    second: naruto-sprite-png_112
+  - first:
+      213: -3698532376721773628
+    second: naruto-sprite-png_113
+  - first:
+      213: 8057359315561364696
+    second: naruto-sprite-png_114
+  - first:
+      213: -2744056311870227326
+    second: naruto-sprite-png_115
+  - first:
+      213: 7279555653996994143
+    second: naruto-sprite-png_116
+  - first:
+      213: 6850283942390520449
+    second: naruto-sprite-png_117
+  - first:
+      213: -5417285487702027855
+    second: naruto-sprite-png_118
+  - first:
+      213: -8605844685276850267
+    second: naruto-sprite-png_119
+  - first:
+      213: 2969813460200919492
+    second: naruto-sprite-png_120
+  - first:
+      213: -1105467918651082976
+    second: naruto-sprite-png_121
+  - first:
+      213: -2413580517015729869
+    second: naruto-sprite-png_122
+  - first:
+      213: 5646723952242141213
+    second: naruto-sprite-png_123
+  - first:
+      213: -1653213403689463469
+    second: naruto-sprite-png_124
+  - first:
+      213: -5750527756424483979
+    second: naruto-sprite-png_125
+  - first:
+      213: 2615705952205314852
+    second: naruto-sprite-png_126
+  - first:
+      213: 9013933261092092057
+    second: naruto-sprite-png_127
+  - first:
+      213: 9033932978802668231
+    second: naruto-sprite-png_128
+  - first:
+      213: -3403112630439118782
+    second: naruto-sprite-png_129
+  - first:
+      213: -3978854962633012313
+    second: naruto-sprite-png_130
+  - first:
+      213: -1866446471114967584
+    second: naruto-sprite-png_131
+  - first:
+      213: -1402080781552610029
+    second: naruto-sprite-png_132
+  - first:
+      213: -3648994167821153861
+    second: naruto-sprite-png_133
+  - first:
+      213: 1483951606968360173
+    second: naruto-sprite-png_134
+  - first:
+      213: 7656276122005494813
+    second: naruto-sprite-png_135
+  - first:
+      213: -1588101363717315823
+    second: naruto-sprite-png_136
+  - first:
+      213: -7131155845215085129
+    second: naruto-sprite-png_137
+  - first:
+      213: -4935073534421780567
+    second: naruto-sprite-png_138
+  - first:
+      213: -2000012056809499267
+    second: naruto-sprite-png_139
+  - first:
+      213: 2146273542353330739
+    second: naruto-sprite-png_140
+  - first:
+      213: -1403627751025935131
+    second: naruto-sprite-png_141
+  - first:
+      213: -2279715299442012325
+    second: naruto-sprite-png_142
+  - first:
+      213: -2421760722951044427
+    second: naruto-sprite-png_143
+  - first:
+      213: -6958432483232234612
+    second: naruto-sprite-png_144
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: naruto-sprite-png_0
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 773
+        width: 41
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5446b1753eef98870800000000000000
+      internalID: 8685753608733156421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_1
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 773
+        width: 42
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ca1e2c46204e1b0800000000000000
+      internalID: -5628371002516722610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_2
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 773
+        width: 41
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af23df038b13184a0800000000000000
+      internalID: -6592933712328051974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_3
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 779
+        width: 44
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da4148ad5aa6c6520800000000000000
+      internalID: 2696647537456321709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_4
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 774
+        width: 45
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1da2c1853ec6cee0800000000000000
+      internalID: -1241077918088385254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_5
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 774
+        width: 37
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d39972d6094596690800000000000000
+      internalID: -7608457116182406851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_6
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 774
+        width: 44
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c03c1cafe932ad3b0800000000000000
+      internalID: -5487034030278720756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_7
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 768
+        width: 45
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2228b5738eda7260800000000000000
+      internalID: 7096228819072721453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_8
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 769
+        width: 38
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adac799895f3dc370800000000000000
+      internalID: 8344395338380462810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_9
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 744
+        width: 69
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bfd619a26433f2a0800000000000000
+      internalID: -6704957821876248655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_10
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 697
+        width: 32
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a85fd610a09355730800000000000000
+      internalID: 3987155760242881930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_11
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 699
+        width: 32
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18dcb269dd04c0cb0800000000000000
+      internalID: -4896467374407168639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_12
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 700
+        width: 48
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0daffbc2d17ed3ae0800000000000000
+      internalID: -1567842982764217648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_13
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 698
+        width: 49
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc66215a73740110800000000000000
+      internalID: 1226231967736294577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_14
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 711
+        width: 38
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98918b45ae586aa10800000000000000
+      internalID: 1920369532610288009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_15
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 629
+        width: 35
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a81d78d94e3c2aa0800000000000000
+      internalID: -6184499701400921944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_16
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 630
+        width: 41
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0eb749e90b6b73a0800000000000000
+      internalID: -6666617133079216627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_17
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 630
+        width: 41
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e884cbcc7d1ea85b0800000000000000
+      internalID: -5365227689089415026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_18
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 630
+        width: 73
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e49214babcc0235c0800000000000000
+      internalID: -4237310230511146674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_19
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 628
+        width: 73
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db52d6b053a1b2830800000000000000
+      internalID: 4047357505249813949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_20
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 632
+        width: 43
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2e98397b738451f0800000000000000
+      internalID: -1057075446187254230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_21
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 632
+        width: 40
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64cb7830c537da380800000000000000
+      internalID: -8958377244736635834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_22
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 632
+        width: 41
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b5fc037d1c8e7340800000000000000
+      internalID: 4863478705718883761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_23
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 630
+        width: 51
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46b1a471e02a00030800000000000000
+      internalID: 3458942695224515428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_24
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 562
+        width: 64
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 192ff272470a69300800000000000000
+      internalID: 258570449354486417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_25
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 559
+        width: 49
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d48bd4af555351e0800000000000000
+      internalID: -2210329122832677679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_26
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 557
+        width: 53
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 786cb829ece663520800000000000000
+      internalID: 2681452461646661255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_27
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 544
+        width: 41
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d1ce729f8df48740800000000000000
+      internalID: 5153522666698621394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_28
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 547
+        width: 58
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c6911107f2d4680800000000000000
+      internalID: -8769300741050766196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_29
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 544
+        width: 30
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 710a2b596fcd4ac90800000000000000
+      internalID: -7159354555980668905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_30
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 548
+        width: 54
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d84945ed40ad19580800000000000000
+      internalID: -8822030480597281651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_31
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 547
+        width: 44
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b537685d7d8c4cf30800000000000000
+      internalID: 4595018349150630747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_32
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 550
+        width: 39
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d80dd263afd9535b0800000000000000
+      internalID: -5389227681102573427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_33
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 550
+        width: 66
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba4ba2a8a565f910800000000000000
+      internalID: 1870512995200354992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_34
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 464
+        width: 58
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 896051530c852f7d0800000000000000
+      internalID: -2886146828643531112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_35
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 465
+        width: 58
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4df54f0e3fc63900800000000000000
+      internalID: 663945860534893901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_36
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 475
+        width: 38
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c2aa8d942a93c7f0800000000000000
+      internalID: -593461243830164798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_37
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 476
+        width: 32
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55cfa2dda0310da30800000000000000
+      internalID: 4237908186736819285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_38
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 469
+        width: 22
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac4eb238ab326040800000000000000
+      internalID: 4639336159736908968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_39
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 471
+        width: 54
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e757aff872f4eb20800000000000000
+      internalID: 3162919439820085223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_40
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 469
+        width: 41
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f10ef98ba5d5de0800000000000000
+      internalID: -1342817364883791990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_41
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 478
+        width: 69
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64b4eb061fa448970800000000000000
+      internalID: 8756205976085744454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_42
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 418
+        width: 49
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7695c20371734d70800000000000000
+      internalID: 9026182816962287230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_43
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 415
+        width: 65
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37fe5050516cba80800000000000000
+      internalID: -8449771803280214210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_44
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 416
+        width: 49
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 335632d6fbe707900800000000000000
+      internalID: 680182904367834419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_45
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 450
+        width: 12
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ebc979b1c6199d40800000000000000
+      internalID: 5591525433653447657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_46
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 415
+        width: 63
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ed16b5efa0489e0800000000000000
+      internalID: -1620157878375424496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_47
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 449
+        width: 11
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15fc1048034e93a10800000000000000
+      internalID: 1889792415682907985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_48
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 417
+        width: 32
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9209c5fe7fd0fc9e0800000000000000
+      internalID: -1599043984169332695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_49
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 424
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31dfb47c7b6b6e430800000000000000
+      internalID: 3811935035054619923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_50
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 417
+        width: 49
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa80a736ba0e726d0800000000000000
+      internalID: -3015194398788286289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_51
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 451
+        width: 13
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9381a98ec19d73e60800000000000000
+      internalID: 7942055186075883577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_52
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 414
+        width: 72
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b9ff5803c50d400800000000000000
+      internalID: 346878534783834959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_53
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 448
+        width: 11
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67ed4d54b13b9c1c0800000000000000
+      internalID: -4482855024353550730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_54
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 417
+        width: 53
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc4e2bfd0cc0978d0800000000000000
+      internalID: -2848231266808830769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_55
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 411
+        width: 29
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbce0d1b7b8db8100800000000000000
+      internalID: 111420899274583227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_56
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 412
+        width: 24
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee2bc88a8c7e3190800000000000000
+      internalID: -7980804555211591967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_57
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 413
+        width: 30
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c2522c42182e700800000000000000
+      internalID: 568158497878125664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_58
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 415
+        width: 39
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dddf5bbb38d768a0800000000000000
+      internalID: -6311838601678168624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_59
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 415
+        width: 23
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea82520ef66ac5f40800000000000000
+      internalID: 5718628626285799598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_60
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 415
+        width: 25
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 215a365fd0095dd10800000000000000
+      internalID: 2149782786765202706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_61
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 417
+        width: 37
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44064c5dbc316a6a0800000000000000
+      internalID: -6438436851093839804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_62
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 442
+        width: 9
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd522ccdb37c837d0800000000000000
+      internalID: -2938379696938539557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_63
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 443
+        width: 9
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3609aa31124d2070800000000000000
+      internalID: 8083189547965941311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_64
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 418
+        width: 24
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 230fb615be3e36a10800000000000000
+      internalID: 1901614067503329330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_65
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 422
+        width: 12
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df680a8e329ec9fe0800000000000000
+      internalID: -1180812661841950979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_66
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 416
+        width: 12
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 405b847dd6fbef580800000000000000
+      internalID: -8791378944096422652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_67
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 419
+        width: 11
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae311dfbe35f94890800000000000000
+      internalID: -7473172456789699606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_68
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 419
+        width: 23
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a61fa074af341fd0800000000000000
+      internalID: -2372201128219699550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_69
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 415
+        width: 11
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eefa1acd69611a9e0800000000000000
+      internalID: -1611982354419437586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_70
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 418
+        width: 11
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb5191e9b67a4bec0800000000000000
+      internalID: -3552030125432695362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_71
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 414
+        width: 18
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 590b973692404f8d0800000000000000
+      internalID: -2813619291390627691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_72
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 414
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a7018a9ade6876f0800000000000000
+      internalID: -686677057999927384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_73
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 415
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbcc355db410dbfb0800000000000000
+      internalID: -4630543416653787973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_74
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 414
+        width: 7
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed8064dbb1a113260800000000000000
+      internalID: 7075465196017682654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_75
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 415
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f8cf3f8544e0810800000000000000
+      internalID: 1733398055425445689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_76
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 394
+        width: 43
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 095040a4422de6c40800000000000000
+      internalID: 5507570447623128464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_77
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 378
+        width: 25
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b12d7b98140012450800000000000000
+      internalID: 6062126854900797979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_78
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 377
+        width: 24
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95549595eb528f3a0800000000000000
+      internalID: -6631508951830018727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_79
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 379
+        width: 26
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f67c901ddae3e27c0800000000000000
+      internalID: -4094266094975858833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_80
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 382
+        width: 14
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 627d41be8de42eaa0800000000000000
+      internalID: -6133253048961280218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_81
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 382
+        width: 13
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ca7934e66d49090800000000000000
+      internalID: -8028556466625991608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_82
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 382
+        width: 13
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13932cb7fb7fe09a0800000000000000
+      internalID: -6264797629838640847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_83
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 381
+        width: 13
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a94579b5efe71d90800000000000000
+      internalID: -7126964115352499807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_84
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 380
+        width: 10
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b22a2011177d1b0800000000000000
+      internalID: -5631908491130950809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_85
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 381
+        width: 10
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f1bdcd98388cff0800000000000000
+      internalID: -15617970556690604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_86
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 381
+        width: 10
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1950a33c13a5aaa40800000000000000
+      internalID: 5380211874622735761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_87
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 381
+        width: 9
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49185bc3a8e521df0800000000000000
+      internalID: -211002284715966060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_88
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 381
+        width: 9
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f4df844e42028e0800000000000000
+      internalID: -1720334494759825648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_89
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 381
+        width: 9
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 336c00709dcb329b0800000000000000
+      internalID: -5106029912196594125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_90
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 336
+        width: 16
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b1a763f71bc2180800000000000000
+      internalID: -9138734383908643965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_91
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 321
+        width: 61
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e845e23dcf4cd2770800000000000000
+      internalID: 8587736654619235470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_92
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 321
+        width: 45
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 802594c5d2cbbc5b0800000000000000
+      internalID: -5346973229564472824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_93
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 341
+        width: 32
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f2162cb25862480800000000000000
+      internalID: -8924299188596822156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_94
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 326
+        width: 27
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0606331dec6371d10800000000000000
+      internalID: 2096204413465223264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_95
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 352
+        width: 11
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf738a3c0bb28360800000000000000
+      internalID: 7170499217922949071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_96
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 321
+        width: 76
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 162f1295b79b12390800000000000000
+      internalID: -7844785136475180447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_97
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 321
+        width: 91
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ceece5a4d0f3750800000000000000
+      internalID: 6286758217901862013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_98
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 321
+        width: 30
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce21ad638cd5f8270800000000000000
+      internalID: 8254919756488512236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_99
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 323
+        width: 13
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6546f2abf6175ce10800000000000000
+      internalID: 2217303116228813910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_100
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 312
+        width: 262
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f068afa8245855d00800000000000000
+      internalID: 960820616359478799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_101
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 262
+        width: 59
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb2374c10f106e70800000000000000
+      internalID: 9106312538994453480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_102
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 261
+        width: 59
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b92dac29b05426a90800000000000000
+      internalID: -7322214128141282661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_103
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 261
+        width: 55
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10964cc9d2f8eff80800000000000000
+      internalID: -8070856056134932223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_104
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 260
+        width: 61
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb6c0e9d043750a00800000000000000
+      internalID: 722110037633320636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_105
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 210
+        width: 148
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b6dd90de43a41b0800000000000000
+      internalID: -5671662588042319069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_106
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 208
+        width: 150
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d00f6e46274f4640800000000000000
+      internalID: 5066346335665324244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_107
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 154
+        width: 145
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d274b627d954e140800000000000000
+      internalID: 4748018687757546193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_108
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 121
+        width: 72
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18bb37f013e67570800000000000000
+      internalID: 8464202211696293915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_109
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 121
+        width: 85
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e28432cdd67a8870800000000000000
+      internalID: 8685885526155494116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_110
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 144
+        width: 8
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fbda5f21b9eb1df0800000000000000
+      internalID: -208316010529629193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_111
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 117
+        width: 88
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee9b22c2373545800800000000000000
+      internalID: 600196404473936366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_112
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 144
+        width: 5
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de91bc2eb0a6596c0800000000000000
+      internalID: -4137284083387786771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_113
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 121
+        width: 92
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cba737266c2cacc0800000000000000
+      internalID: -3698532376721773628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_114
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 85
+        width: 93
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc38b79b9d71df60800000000000000
+      internalID: 8057359315561364696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_115
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 112
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c7e4fa2572be9d0800000000000000
+      internalID: -2744056311870227326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_116
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 88
+        width: 67
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e5d2f6c4d260560800000000000000
+      internalID: 7279555653996994143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_117
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 96
+        width: 8
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18adfb483f8111f50800000000000000
+      internalID: 6850283942390520449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_118
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 95
+        width: 9
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b154aa0d8fe1d4b0800000000000000
+      internalID: -5417285487702027855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_119
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 95
+        width: 9
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a7d3edbad5e19880800000000000000
+      internalID: -8605844685276850267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_120
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 94
+        width: 10
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c113787b95e63920800000000000000
+      internalID: 2969813460200919492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_121
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 95
+        width: 9
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0273636f8c698a0f0800000000000000
+      internalID: -1105467918651082976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_122
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 94
+        width: 9
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3394976be4d318ed0800000000000000
+      internalID: -2413580517015729869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_123
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 94
+        width: 7
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d18251654813d5e40800000000000000
+      internalID: 5646723952242141213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_124
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 94
+        width: 8
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 351dc2f1b2b9e09e0800000000000000
+      internalID: -1653213403689463469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_125
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 94
+        width: 8
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b6b4f19750230b0800000000000000
+      internalID: -5750527756424483979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_126
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 94
+        width: 8
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42b921674badc4420800000000000000
+      internalID: 2615705952205314852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_127
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 93
+        width: 7
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 998f8780b8ce71d70800000000000000
+      internalID: 9013933261092092057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_128
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 95
+        width: 11
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c2383e2e2afe5d70800000000000000
+      internalID: 9033932978802668231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_129
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 94
+        width: 12
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 248f704d717b5c0d0800000000000000
+      internalID: -3403112630439118782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_130
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 93
+        width: 12
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab857b0e7448c8c0800000000000000
+      internalID: -3978854962633012313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_131
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 94
+        width: 11
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e539e8c2dc0916e0800000000000000
+      internalID: -1866446471114967584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_132
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 93
+        width: 9
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 315972d25feca8ce0800000000000000
+      internalID: -1402080781552610029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_133
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 37
+        width: 21
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb94c87332b2c5dc0800000000000000
+      internalID: -3648994167821153861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_134
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 39
+        width: 27
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec183dcf1e089410800000000000000
+      internalID: 1483951606968360173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_135
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 41
+        width: 41
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c517a719e804a60800000000000000
+      internalID: 7656276122005494813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_136
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 40
+        width: 52
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 113e05c493ee5f9e0800000000000000
+      internalID: -1588101363717315823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_137
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 41
+        width: 72
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd11009a8b090d90800000000000000
+      internalID: -7131155845215085129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_138
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 72
+        width: 7
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a7bb5084c8138bb0800000000000000
+      internalID: -4935073534421780567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_139
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 64
+        width: 14
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d751f5f71a78e34e0800000000000000
+      internalID: -2000012056809499267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_140
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 69
+        width: 11
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3322ac25a6819cd10800000000000000
+      internalID: 2146273542353330739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_141
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 60
+        width: 6
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ecf7374fff458ce0800000000000000
+      internalID: -1403627751025935131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_142
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 55
+        width: 11
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f4cbb7303dc50e0800000000000000
+      internalID: -2279715299442012325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_143
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 46
+        width: 9
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b28289147d246ed0800000000000000
+      internalID: -2421760722951044427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-sprite-png_144
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 35
+        width: 16
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c83476b168eae6f90800000000000000
+      internalID: -6958432483232234612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
