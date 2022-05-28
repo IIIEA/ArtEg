@@ -24,6 +24,11 @@ public class PlayerMovement : MonoBehaviour
 
     private void Update()
     {
+        if (DialogueManager.GetInstance().DialogueIsPlaying)
+        {
+            return;
+        }
+
         if (_joystick.Horizontal != 0)
         {
             LookDirection = CalculateLookDirection(_joystick.Horizontal);
