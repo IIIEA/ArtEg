@@ -1,0 +1,1713 @@
+fileFormatVersion: 2
+guid: ec63f965fe11a334fbc2cefe7456d6cb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3766461321281598072
+    second: village_ [red]_0
+  - first:
+      213: 2753648855656345774
+    second: village_ [red]_1
+  - first:
+      213: -1436402545757958034
+    second: village_ [red]_2
+  - first:
+      213: -5149011178350266529
+    second: village_ [red]_3
+  - first:
+      213: -1835771281894908564
+    second: village_ [red]_4
+  - first:
+      213: -2910802846819586525
+    second: village_ [red]_5
+  - first:
+      213: -529629352388395244
+    second: village_ [red]_6
+  - first:
+      213: -7517318232068883079
+    second: village_ [red]_7
+  - first:
+      213: 1468664844831112740
+    second: village_ [red]_8
+  - first:
+      213: -4177920587094502705
+    second: village_ [red]_9
+  - first:
+      213: 2235985564567697899
+    second: village_ [red]_10
+  - first:
+      213: 3229005444534581749
+    second: village_ [red]_11
+  - first:
+      213: -2081386314890286403
+    second: village_ [red]_12
+  - first:
+      213: 7352839135084282476
+    second: village_ [red]_13
+  - first:
+      213: 2287801223910651749
+    second: village_ [red]_14
+  - first:
+      213: 5526448870882513341
+    second: village_ [red]_15
+  - first:
+      213: -4434543463829064036
+    second: village_ [red]_16
+  - first:
+      213: -2966824494934948860
+    second: village_ [red]_17
+  - first:
+      213: -830016874712032397
+    second: village_ [red]_18
+  - first:
+      213: -8975752820640588928
+    second: village_ [red]_19
+  - first:
+      213: 3496628388469008561
+    second: village_ [red]_20
+  - first:
+      213: -6611576864237318713
+    second: village_ [red]_21
+  - first:
+      213: 8340300375667834099
+    second: village_ [red]_22
+  - first:
+      213: -1143810951945612036
+    second: village_ [red]_23
+  - first:
+      213: -2838354661663072800
+    second: village_ [red]_24
+  - first:
+      213: 3480943558388236342
+    second: village_ [red]_25
+  - first:
+      213: -8652042695146359559
+    second: village_ [red]_26
+  - first:
+      213: 4301777719901799618
+    second: village_ [red]_27
+  - first:
+      213: 6930963881970804564
+    second: village_ [red]_28
+  - first:
+      213: 9106651174506340493
+    second: village_ [red]_29
+  - first:
+      213: -4704629254707639091
+    second: village_ [red]_30
+  - first:
+      213: -484299122778352315
+    second: village_ [red]_31
+  - first:
+      213: -3814652208339947186
+    second: village_ [red]_32
+  - first:
+      213: 3593057774050682144
+    second: village_ [red]_33
+  - first:
+      213: 6383513959735313585
+    second: village_ [red]_34
+  - first:
+      213: 5915270545021776941
+    second: village_ [red]_35
+  - first:
+      213: 4413523725552395514
+    second: village_ [red]_36
+  - first:
+      213: 573270197150337360
+    second: village_ [red]_37
+  - first:
+      213: 6183856765092103080
+    second: village_ [red]_38
+  - first:
+      213: 6096599649512474324
+    second: village_ [red]_39
+  - first:
+      213: 9138955114114788358
+    second: village_ [red]_40
+  - first:
+      213: -15893131055770795
+    second: village_ [red]_41
+  - first:
+      213: -1390781010179688569
+    second: village_ [red]_42
+  - first:
+      213: -5422829693929576483
+    second: village_ [red]_43
+  - first:
+      213: 4316620144886846900
+    second: village_ [red]_44
+  - first:
+      213: 5478803006983970398
+    second: village_ [red]_45
+  - first:
+      213: 1050391206547644728
+    second: village_ [red]_46
+  - first:
+      213: 6450383929528031566
+    second: village_ [red]_47
+  - first:
+      213: -7988708698966183570
+    second: village_ [red]_48
+  - first:
+      213: -255084248778894011
+    second: village_ [red]_49
+  - first:
+      213: -3205465345362282615
+    second: village_ [red]_50
+  - first:
+      213: -472274285717045437
+    second: village_ [red]_51
+  - first:
+      213: 5661466080630401555
+    second: village_ [red]_52
+  - first:
+      213: 520766665340576819
+    second: village_ [red]_53
+  - first:
+      213: -5321962158473007151
+    second: village_ [red]_54
+  - first:
+      213: 3808982066825093146
+    second: village_ [red]_55
+  - first:
+      213: -7678023493095760491
+    second: village_ [red]_56
+  - first:
+      213: -7418366809082887454
+    second: village_ [red]_57
+  - first:
+      213: 2200186468922112686
+    second: village_ [red]_58
+  - first:
+      213: -6120695180674589607
+    second: village_ [red]_59
+  - first:
+      213: -8098969032583709436
+    second: village_ [red]_60
+  - first:
+      213: 391981448818140716
+    second: village_ [red]_61
+  - first:
+      213: 6332196153575117220
+    second: village_ [red]_62
+  - first:
+      213: 6701476708859061517
+    second: village_ [red]_63
+  - first:
+      213: 4806825063641672161
+    second: village_ [red]_64
+  - first:
+      213: 4792204189080155291
+    second: village_ [red]_65
+  - first:
+      213: -397498745030480090
+    second: village_ [red]_66
+  - first:
+      213: -4803928425165638125
+    second: village_ [red]_67
+  - first:
+      213: -1732506018177517815
+    second: village_ [red]_68
+  - first:
+      213: 4840330751384475038
+    second: village_ [red]_69
+  - first:
+      213: 7681889983927327528
+    second: village_ [red]_70
+  - first:
+      213: 5748836737655370866
+    second: village_ [red]_71
+  - first:
+      213: 2462466494011368273
+    second: village_ [red]_72
+  - first:
+      213: 4119059049422651888
+    second: village_ [red]_73
+  - first:
+      213: -4431198791068011495
+    second: village_ [red]_74
+  - first:
+      213: 9095772590705574424
+    second: village_ [red]_75
+  - first:
+      213: -9039236314083004899
+    second: village_ [red]_76
+  - first:
+      213: 7135838355850780571
+    second: village_ [red]_77
+  - first:
+      213: -854950459415840151
+    second: village_ [red]_78
+  - first:
+      213: -9054096352173340958
+    second: village_ [red]_79
+  - first:
+      213: -3279705074709208384
+    second: village_ [red]_80
+  - first:
+      213: -2344454800387446725
+    second: village_ [red]_81
+  - first:
+      213: -253229466391858665
+    second: village_ [red]_82
+  - first:
+      213: 201533524873262011
+    second: village_ [red]_83
+  - first:
+      213: -1822599357044257053
+    second: village_ [red]_84
+  - first:
+      213: 2628771190375664679
+    second: village_ [red]_85
+  - first:
+      213: 5428659582709190810
+    second: village_ [red]_86
+  - first:
+      213: -3339251464539843524
+    second: village_ [red]_87
+  - first:
+      213: -5695500790287645803
+    second: village_ [red]_88
+  - first:
+      213: 3424726874706821858
+    second: village_ [red]_89
+  - first:
+      213: -5823995654345028297
+    second: village_ [red]_90
+  - first:
+      213: -9074303978973560994
+    second: village_ [red]_91
+  - first:
+      213: -5999129176617740941
+    second: village_ [red]_92
+  - first:
+      213: -7266764961301313186
+    second: village_ [red]_93
+  - first:
+      213: -4068656762794593250
+    second: village_ [red]_94
+  - first:
+      213: 1935751769394450266
+    second: village_ [red]_95
+  - first:
+      213: -3430363861093302285
+    second: village_ [red]_96
+  - first:
+      213: 1233899027229548687
+    second: village_ [red]_97
+  - first:
+      213: 8746783202853903579
+    second: village_ [red]_98
+  - first:
+      213: -8896372415196768036
+    second: village_ [red]_99
+  - first:
+      213: -1528538359616937703
+    second: village_ [red]_100
+  - first:
+      213: 4590627848489528824
+    second: village_ [red]_101
+  - first:
+      213: 304072008463406282
+    second: village_ [red]_102
+  - first:
+      213: -2130762482817195431
+    second: village_ [red]_103
+  - first:
+      213: 4930203952746868903
+    second: village_ [red]_104
+  - first:
+      213: 90677026906706708
+    second: village_ [red]_105
+  - first:
+      213: 2867238258565522126
+    second: village_ [red]_106
+  - first:
+      213: -779110854760801122
+    second: village_ [red]_107
+  - first:
+      213: 6679170882868204816
+    second: village_ [red]_108
+  - first:
+      213: 8867820045250714410
+    second: village_ [red]_109
+  - first:
+      213: -1545753480158697487
+    second: village_ [red]_110
+  - first:
+      213: -9182246361485177940
+    second: village_ [red]_111
+  - first:
+      213: -5345562130180372859
+    second: village_ [red]_112
+  - first:
+      213: -5894189817343031639
+    second: village_ [red]_113
+  - first:
+      213: -2627422917187012400
+    second: village_ [red]_114
+  - first:
+      213: -5363082824110221106
+    second: village_ [red]_115
+  - first:
+      213: 433635335959885287
+    second: village_ [red]_116
+  - first:
+      213: -2066116491483806040
+    second: village_ [red]_117
+  - first:
+      213: 4978853868683799412
+    second: village_ [red]_118
+  - first:
+      213: 8130459637772325312
+    second: village_ [red]_119
+  - first:
+      213: 2629885534011305949
+    second: village_ [red]_120
+  - first:
+      213: -5474976614722637164
+    second: village_ [red]_121
+  - first:
+      213: -4975899523073769013
+    second: village_ [red]_122
+  - first:
+      213: 8125984914248208016
+    second: village_ [red]_123
+  - first:
+      213: -3619062672850954985
+    second: village_ [red]_124
+  - first:
+      213: 394555258583232884
+    second: village_ [red]_125
+  - first:
+      213: -1756586183427800385
+    second: village_ [red]_126
+  - first:
+      213: 4830393123576776097
+    second: village_ [red]_127
+  - first:
+      213: 101702932802020182
+    second: village_ [red]_128
+  - first:
+      213: 3007502535861059450
+    second: village_ [red]_129
+  - first:
+      213: 4114799232056412714
+    second: village_ [red]_130
+  - first:
+      213: 6014835439957803870
+    second: village_ [red]_131
+  - first:
+      213: 7547783158223959297
+    second: village_ [red]_132
+  - first:
+      213: -8980950732704877327
+    second: village_ [red]_133
+  - first:
+      213: 1602504001051174878
+    second: village_ [red]_134
+  - first:
+      213: 4368713788016280407
+    second: village_ [red]_135
+  - first:
+      213: 8406928714822472122
+    second: village_ [red]_136
+  - first:
+      213: 9136984969882204054
+    second: village_ [red]_137
+  - first:
+      213: -4383393475943553858
+    second: village_ [red]_138
+  - first:
+      213: -7012883171470536817
+    second: village_ [red]_139
+  - first:
+      213: 8009359443428884603
+    second: village_ [red]_140
+  - first:
+      213: 2145983147372754304
+    second: village_ [red]_141
+  - first:
+      213: 8715439804112491098
+    second: village_ [red]_142
+  - first:
+      213: 2189148136089682289
+    second: village_ [red]_143
+  - first:
+      213: -7228424149307324459
+    second: village_ [red]_144
+  - first:
+      213: 1898076822102892056
+    second: village_ [red]_145
+  - first:
+      213: 7978917415378596183
+    second: village_ [red]_146
+  - first:
+      213: 6301974084200128188
+    second: village_ [red]_147
+  - first:
+      213: 6390890036227901429
+    second: village_ [red]_148
+  - first:
+      213: 3420379137384771055
+    second: village_ [red]_149
+  - first:
+      213: 2735142057279857841
+    second: village_ [red]_150
+  - first:
+      213: -6851144868771479428
+    second: village_ [red]_151
+  - first:
+      213: -2213154062358327403
+    second: village_ [red]_152
+  - first:
+      213: 8043940112807060150
+    second: village_ [red]_153
+  - first:
+      213: 8777836496733708943
+    second: village_ [red]_154
+  - first:
+      213: 8961545138305726213
+    second: village_ [red]_155
+  - first:
+      213: 6456039124892629226
+    second: village_ [red]_156
+  - first:
+      213: -8401630110783844637
+    second: village_ [red]_157
+  - first:
+      213: -4583448936022029489
+    second: village_ [red]_158
+  - first:
+      213: 4053288245383331052
+    second: village_ [red]_159
+  - first:
+      213: -8582000034911397935
+    second: village_ [red]_160
+  - first:
+      213: -6644962522174052427
+    second: village_ [red]_161
+  - first:
+      213: -3004537674812246792
+    second: village_ [red]_162
+  - first:
+      213: -6437688075098761181
+    second: village_ [red]_163
+  - first:
+      213: 5085883356502289200
+    second: village_ [red]_164
+  - first:
+      213: 7375571749304030306
+    second: village_ [red]_165
+  - first:
+      213: 1992042362635765923
+    second: village_ [red]_166
+  - first:
+      213: -5858119456614731026
+    second: village_ [red]_167
+  - first:
+      213: -1413964796329324142
+    second: village_ [red]_168
+  - first:
+      213: 5602754515025256090
+    second: village_ [red]_169
+  - first:
+      213: 5106343982997160316
+    second: village_ [red]_170
+  - first:
+      213: -5608493377963901234
+    second: village_ [red]_171
+  - first:
+      213: 5744737009578655732
+    second: village_ [red]_172
+  - first:
+      213: 6421014732654000641
+    second: village_ [red]_173
+  - first:
+      213: 8852570594782478395
+    second: village_ [red]_174
+  - first:
+      213: -3677118100161392166
+    second: village_ [red]_175
+  - first:
+      213: -1713486958493450378
+    second: village_ [red]_176
+  - first:
+      213: -9214408352757716393
+    second: village_ [red]_177
+  - first:
+      213: 3451749991681290957
+    second: village_ [red]_178
+  - first:
+      213: -3327125693718501895
+    second: village_ [red]_179
+  - first:
+      213: -4092366084954371332
+    second: village_ [red]_180
+  - first:
+      213: -4159708899742900103
+    second: village_ [red]_181
+  - first:
+      213: 394108501113174767
+    second: village_ [red]_182
+  - first:
+      213: 7139952793864592437
+    second: village_ [red]_183
+  - first:
+      213: -1738959571574845596
+    second: village_ [red]_184
+  - first:
+      213: -5580638130301320630
+    second: village_ [red]_185
+  - first:
+      213: 132793875227400392
+    second: village_ [red]_186
+  - first:
+      213: -7312894825547894947
+    second: village_ [red]_187
+  - first:
+      213: -8855804242422590590
+    second: village_ [red]_188
+  - first:
+      213: 9064648248401992770
+    second: village_ [red]_189
+  - first:
+      213: -8964356189759417272
+    second: village_ [red]_190
+  - first:
+      213: -7068689788588140520
+    second: village_ [red]_191
+  - first:
+      213: 3753671089755145644
+    second: village_ [red]_192
+  - first:
+      213: -6850129573983017194
+    second: village_ [red]_193
+  - first:
+      213: -5461164243402377618
+    second: village_ [red]_194
+  - first:
+      213: 7641721843215979805
+    second: village_ [red]_195
+  - first:
+      213: 2714524750732004009
+    second: village_ [red]_196
+  - first:
+      213: 7428322853130626010
+    second: village_ [red]_197
+  - first:
+      213: -2642247136610473489
+    second: village_ [red]_198
+  - first:
+      213: -3514599288445580263
+    second: village_ [red]_199
+  - first:
+      213: -2829805274201821576
+    second: village_ [red]_200
+  - first:
+      213: 6039063125215313238
+    second: village_ [red]_201
+  - first:
+      213: -4890815150946792924
+    second: village_ [red]_202
+  - first:
+      213: 4328160202111692743
+    second: village_ [red]_203
+  - first:
+      213: 4955462411456179753
+    second: village_ [red]_204
+  - first:
+      213: 7080580708606014601
+    second: village_ [red]_205
+  - first:
+      213: 8303360824166356042
+    second: village_ [red]_206
+  - first:
+      213: 7487020279986633867
+    second: village_ [red]_207
+  - first:
+      213: 5418010648248105596
+    second: village_ [red]_208
+  - first:
+      213: 559047585428985562
+    second: village_ [red]_209
+  - first:
+      213: 808797840266820773
+    second: village_ [red]_210
+  - first:
+      213: -4088725376894647897
+    second: village_ [red]_211
+  - first:
+      213: -853142070845995910
+    second: village_ [red]_212
+  - first:
+      213: 3741451882593967259
+    second: village_ [red]_213
+  - first:
+      213: -1421607117678974448
+    second: village_ [red]_214
+  - first:
+      213: -4306209543932363037
+    second: village_ [red]_215
+  - first:
+      213: 5545636595395080862
+    second: village_ [red]_216
+  - first:
+      213: -4968620046465786932
+    second: village_ [red]_217
+  - first:
+      213: -3098232105721185600
+    second: village_ [red]_218
+  - first:
+      213: 4487297665377318536
+    second: village_ [red]_219
+  - first:
+      213: -8400718417590305441
+    second: village_ [red]_220
+  - first:
+      213: 7496671730995493687
+    second: village_ [red]_221
+  - first:
+      213: 5985165070807249741
+    second: village_ [red]_222
+  - first:
+      213: 7574790560916084115
+    second: village_ [red]_223
+  - first:
+      213: 8746838350957154798
+    second: village_ [red]_224
+  - first:
+      213: -8724176534962393730
+    second: village_ [red]_225
+  - first:
+      213: 9127349570607230657
+    second: village_ [red]_226
+  - first:
+      213: -767602423701541395
+    second: village_ [red]_227
+  - first:
+      213: 1234109829405207688
+    second: village_ [red]_228
+  - first:
+      213: 7530454522231279426
+    second: village_ [red]_229
+  - first:
+      213: 6050690042070714720
+    second: village_ [red]_230
+  - first:
+      213: -1443420587684628605
+    second: village_ [red]_231
+  - first:
+      213: 8468321615696234088
+    second: village_ [red]_232
+  - first:
+      213: -3962145267266808419
+    second: village_ [red]_233
+  - first:
+      213: 1752777901421171104
+    second: village_ [red]_234
+  - first:
+      213: 5460890992316573061
+    second: village_ [red]_235
+  - first:
+      213: -1899537430882376264
+    second: village_ [red]_236
+  - first:
+      213: 2238332328847158111
+    second: village_ [red]_237
+  - first:
+      213: 1758829612505624061
+    second: village_ [red]_238
+  - first:
+      213: 3352585992420454706
+    second: village_ [red]_239
+  - first:
+      213: 8915273535484067818
+    second: village_ [red]_240
+  - first:
+      213: -7447557996941142711
+    second: village_ [red]_241
+  - first:
+      213: 7451409203272577645
+    second: village_ [red]_242
+  - first:
+      213: 7514834684399029952
+    second: village_ [red]_243
+  - first:
+      213: 66299522937125474
+    second: village_ [red]_244
+  - first:
+      213: 943816139752792817
+    second: village_ [red]_245
+  - first:
+      213: -5233234932953196722
+    second: village_ [red]_246
+  - first:
+      213: -6066939635266010478
+    second: village_ [red]_247
+  - first:
+      213: -1511303830874635561
+    second: village_ [red]_248
+  - first:
+      213: 3121675524365186131
+    second: village_ [red]_249
+  - first:
+      213: 2814020627872514685
+    second: village_ [red]_250
+  - first:
+      213: 112211434178345628
+    second: village_ [red]_251
+  - first:
+      213: -3794624783154603014
+    second: village_ [red]_252
+  - first:
+      213: 1954900013483793839
+    second: village_ [red]_253
+  - first:
+      213: -6146956989254466984
+    second: village_ [red]_254
+  - first:
+      213: 2547686178799377100
+    second: village_ [red]_255
+  - first:
+      213: 8181282253179110475
+    second: village_ [red]_256
+  - first:
+      213: 4411957352289442744
+    second: village_ [red]_257
+  - first:
+      213: 5749924799137510853
+    second: village_ [red]_258
+  - first:
+      213: -8531402803496172099
+    second: village_ [red]_259
+  - first:
+      213: 4888990554800901124
+    second: village_ [red]_260
+  - first:
+      213: 1888329326392408170
+    second: village_ [red]_261
+  - first:
+      213: -2579306288017960085
+    second: village_ [red]_262
+  - first:
+      213: 323084209536819944
+    second: village_ [red]_263
+  - first:
+      213: 5424612880106826098
+    second: village_ [red]_264
+  - first:
+      213: 1865841058019968746
+    second: village_ [red]_265
+  - first:
+      213: -8244357943553648458
+    second: village_ [red]_266
+  - first:
+      213: 1394876243767601742
+    second: village_ [red]_267
+  - first:
+      213: -3381274973499651932
+    second: village_ [red]_268
+  - first:
+      213: -176301857133530890
+    second: village_ [red]_269
+  - first:
+      213: -1087702442936263156
+    second: village_ [red]_270
+  - first:
+      213: -2626418582451132085
+    second: village_ [red]_271
+  - first:
+      213: -8438726473444191171
+    second: village_ [red]_272
+  - first:
+      213: 2923133763262113122
+    second: village_ [red]_273
+  - first:
+      213: -2114571208885952133
+    second: village_ [red]_274
+  - first:
+      213: -6549784127484641413
+    second: village_ [red]_275
+  - first:
+      213: -1888429221921928978
+    second: village_ [red]_276
+  - first:
+      213: -2091917547728416026
+    second: village_ [red]_277
+  - first:
+      213: 690487395854528003
+    second: village_ [red]_278
+  - first:
+      213: -4082706222054254619
+    second: village_ [red]_279
+  - first:
+      213: 1514111323774133917
+    second: village_ [red]_280
+  - first:
+      213: -6464391416577706697
+    second: village_ [red]_281
+  - first:
+      213: -7927864886509299620
+    second: village_ [red]_282
+  - first:
+      213: 3563199390609372003
+    second: village_ [red]_283
+  - first:
+      213: 3686627473374697750
+    second: village_ [red]_284
+  - first:
+      213: 6533266843048240791
+    second: village_ [red]_285
+  - first:
+      213: -845225739068292581
+    second: village_ [red]_286
+  - first:
+      213: -5741380221644778049
+    second: village_ [red]_287
+  - first:
+      213: -8045143966997138035
+    second: village_ [red]_288
+  - first:
+      213: 910949088057760228
+    second: village_ [red]_289
+  - first:
+      213: -1166980940846364049
+    second: village_ [red]_290
+  - first:
+      213: 7788910605469914397
+    second: village_ [red]_291
+  - first:
+      213: -4527963140287542547
+    second: village_ [red]_292
+  - first:
+      213: 3308131513448922883
+    second: village_ [red]_293
+  - first:
+      213: -8289174677383574518
+    second: village_ [red]_294
+  - first:
+      213: 6507404919546996076
+    second: village_ [red]_295
+  - first:
+      213: 2648542751580354534
+    second: village_ [red]_296
+  - first:
+      213: -5961427128264303228
+    second: village_ [red]_297
+  - first:
+      213: -5351185113901596330
+    second: village_ [red]_298
+  - first:
+      213: -2511386976553384291
+    second: village_ [red]_299
+  - first:
+      213: -2498200044127825426
+    second: village_ [red]_300
+  - first:
+      213: -6875767666749191323
+    second: village_ [red]_301
+  - first:
+      213: 6259779000021127307
+    second: village_ [red]_302
+  - first:
+      213: 6413461503524998679
+    second: village_ [red]_303
+  - first:
+      213: 4651629741895986999
+    second: village_ [red]_304
+  - first:
+      213: -6160070898697208564
+    second: village_ [red]_305
+  - first:
+      213: -2109261075170055898
+    second: village_ [red]_306
+  - first:
+      213: 2785745885266767500
+    second: village_ [red]_307
+  - first:
+      213: 7264393169583680532
+    second: village_ [red]_308
+  - first:
+      213: 2435966028426525464
+    second: village_ [red]_309
+  - first:
+      213: 5741674016087546373
+    second: village_ [red]_310
+  - first:
+      213: 4615911651633577825
+    second: village_ [red]_311
+  - first:
+      213: 4665770738321824645
+    second: village_ [red]_312
+  - first:
+      213: 5127474835545096503
+    second: village_ [red]_313
+  - first:
+      213: -6837379590842374132
+    second: village_ [red]_314
+  - first:
+      213: 4458633499813556014
+    second: village_ [red]_315
+  - first:
+      213: 3428736364368471295
+    second: village_ [red]_316
+  - first:
+      213: -6724706373404709540
+    second: village_ [red]_317
+  - first:
+      213: -3790296424870604710
+    second: village_ [red]_318
+  - first:
+      213: -3308305026043328914
+    second: village_ [red]_319
+  - first:
+      213: -2154606610163226377
+    second: village_ [red]_320
+  - first:
+      213: 4486539412734183659
+    second: village_ [red]_321
+  - first:
+      213: 175459955631801690
+    second: village_ [red]_322
+  - first:
+      213: 9046634965192792009
+    second: village_ [red]_323
+  - first:
+      213: -6236693716394431147
+    second: village_ [red]_324
+  - first:
+      213: -8374961198738589266
+    second: village_ [red]_325
+  - first:
+      213: -1266418457126415098
+    second: village_ [red]_326
+  - first:
+      213: 7734988962052037521
+    second: village_ [red]_327
+  - first:
+      213: -9127637292643779507
+    second: village_ [red]_328
+  - first:
+      213: -1709652174277667665
+    second: village_ [red]_329
+  - first:
+      213: -2292630375071782564
+    second: village_ [red]_330
+  - first:
+      213: -2104744085791869141
+    second: village_ [red]_331
+  - first:
+      213: 7862820706415962891
+    second: village_ [red]_332
+  - first:
+      213: -9156461414333499621
+    second: village_ [red]_333
+  - first:
+      213: -6305398724880224419
+    second: village_ [red]_334
+  - first:
+      213: -8540352540970172977
+    second: village_ [red]_335
+  - first:
+      213: 5699929322148289632
+    second: village_ [red]_336
+  - first:
+      213: -8938093713284512408
+    second: village_ [red]_337
+  - first:
+      213: 2375741029235698014
+    second: village_ [red]_338
+  - first:
+      213: 7185378305099001661
+    second: village_ [red]_339
+  - first:
+      213: -1027888930391334251
+    second: village_ [red]_340
+  - first:
+      213: -796006263101237886
+    second: village_ [red]_341
+  - first:
+      213: -5443871151548682189
+    second: village_ [red]_342
+  - first:
+      213: -7497469399103264690
+    second: village_ [red]_343
+  - first:
+      213: 3843898521351853880
+    second: village_ [red]_344
+  - first:
+      213: -4080655174085126144
+    second: village_ [red]_345
+  - first:
+      213: -1730367092739280899
+    second: village_ [red]_346
+  - first:
+      213: 7935067548869902941
+    second: village_ [red]_347
+  - first:
+      213: -2434410153891343514
+    second: village_ [red]_348
+  - first:
+      213: 490414167113494805
+    second: village_ [red]_349
+  - first:
+      213: 1346471712113355872
+    second: village_ [red]_350
+  - first:
+      213: 6990082883861269937
+    second: village_ [red]_351
+  - first:
+      213: -6020125635807225997
+    second: village_ [red]_352
+  - first:
+      213: 1580812847887074193
+    second: village_ [red]_353
+  - first:
+      213: -8428170018172375237
+    second: village_ [red]_354
+  - first:
+      213: 2957483154270844020
+    second: village_ [red]_355
+  - first:
+      213: 5487511294847758929
+    second: village_ [red]_356
+  - first:
+      213: 6731840597453186780
+    second: village_ [red]_357
+  - first:
+      213: -4897194079523049035
+    second: village_ [red]_358
+  - first:
+      213: 2340696724743694325
+    second: village_ [red]_359
+  - first:
+      213: 1299598541841018055
+    second: village_ [red]_360
+  - first:
+      213: -7254448319594070612
+    second: village_ [red]_361
+  - first:
+      213: 3221304857041659803
+    second: village_ [red]_362
+  - first:
+      213: 3951555127265017780
+    second: village_ [red]_363
+  - first:
+      213: -5903185574620395884
+    second: village_ [red]_364
+  - first:
+      213: -8182023264901936782
+    second: village_ [red]_365
+  - first:
+      213: -7925539700847165896
+    second: village_ [red]_366
+  - first:
+      213: 4723053099013964423
+    second: village_ [red]_367
+  - first:
+      213: 4550464844929021289
+    second: village_ [red]_368
+  - first:
+      213: -3819509773574108655
+    second: village_ [red]_369
+  - first:
+      213: 3768570245682606259
+    second: village_ [red]_370
+  - first:
+      213: -3814758068305039280
+    second: village_ [red]_371
+  - first:
+      213: -4053736969802128339
+    second: village_ [red]_372
+  - first:
+      213: -7943049513582131387
+    second: village_ [red]_373
+  - first:
+      213: 2537811167255053597
+    second: village_ [red]_374
+  - first:
+      213: -1145298054284694020
+    second: village_ [red]_375
+  - first:
+      213: 1996408167208431099
+    second: village_ [red]_376
+  - first:
+      213: 5401640961151133800
+    second: village_ [red]_377
+  - first:
+      213: -4026539049562101262
+    second: village_ [red]_378
+  - first:
+      213: 4206061680496654674
+    second: village_ [red]_379
+  - first:
+      213: 4233419121088254315
+    second: village_ [red]_380
+  - first:
+      213: -7483668080998123192
+    second: village_ [red]_381
+  - first:
+      213: -8418733324215491306
+    second: village_ [red]_382
+  - first:
+      213: 6444380032180560450
+    second: village_ [red]_383
+  - first:
+      213: 6841680962420923049
+    second: village_ [red]_384
+  - first:
+      213: -5545103091551137805
+    second: village_ [red]_385
+  - first:
+      213: 1957402677975039202
+    second: village_ [red]_386
+  - first:
+      213: -155681450135353380
+    second: village_ [red]_387
+  - first:
+      213: 5896469047150329753
+    second: village_ [red]_388
+  - first:
+      213: 5536727610165718415
+    second: village_ [red]_389
+  - first:
+      213: 7933268477997277302
+    second: village_ [red]_390
+  - first:
+      213: -1128749063573061737
+    second: village_ [red]_391
+  - first:
+      213: -7216464851814570304
+    second: village_ [red]_392
+  - first:
+      213: -4433151556885293988
+    second: village_ [red]_393
+  - first:
+      213: 6722752172098269226
+    second: village_ [red]_394
+  - first:
+      213: 2292392105113546868
+    second: village_ [red]_395
+  - first:
+      213: 5673175257367480493
+    second: village_ [red]_396
+  - first:
+      213: -5725948346413026057
+    second: village_ [red]_397
+  - first:
+      213: 7117441612303440828
+    second: village_ [red]_398
+  - first:
+      213: -7186752200369269755
+    second: village_ [red]_399
+  - first:
+      213: 7718992899393453857
+    second: village_ [red]_400
+  - first:
+      213: -5441002689869524044
+    second: village_ [red]_401
+  - first:
+      213: 3534750780127127086
+    second: village_ [red]_402
+  - first:
+      213: -2842121137988946019
+    second: village_ [red]_403
+  - first:
+      213: 8699487331190982963
+    second: village_ [red]_404
+  - first:
+      213: 2558336203134696690
+    second: village_ [red]_405
+  - first:
+      213: -7610131541992348351
+    second: village_ [red]_406
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: village_ [red]_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 285
+        width: 66
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d03c44267dabbc0800000000000000
+      internalID: -3766461321281598072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ [red]_1
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 285
+        width: 66
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea0be857b0de63620800000000000000
+      internalID: 2753648855656345774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ [red]_2
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 285
+        width: 81
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6051a9be7fd01ce0800000000000000
+      internalID: -1436402545757958034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ [red]_3
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 285
+        width: 84
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f57bae92d990b88b0800000000000000
+      internalID: -5149011178350266529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ [red]_4
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 173
+        width: 84
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d5ac5deb70686e0800000000000000
+      internalID: -1835771281894908564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ [red]_5
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 173
+        width: 84
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e6f10ab30ca97d0800000000000000
+      internalID: -2910802846819586525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ [red]_6
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 173
+        width: 88
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ff44cf8e066a8f0800000000000000
+      internalID: -529629352388395244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ [red]_7
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 77
+        width: 84
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d77f975ee1da790800000000000000
+      internalID: -7517318232068883079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ [red]_8
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 77
+        width: 34
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e334225eeb16410800000000000000
+      internalID: 1468664844831112740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ [red]_9
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 77
+        width: 66
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc2d0729c5b0506c0800000000000000
+      internalID: -4177920587094502705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ [red]_10
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 77
+        width: 52
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be975f23601d70f10800000000000000
+      internalID: 2235985564567697899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ [red]_11
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 31
+        width: 22
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f93943085bbfcc20800000000000000
+      internalID: 3229005444534581749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ [red]_12
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 31
+        width: 22
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbaea9c9c2e6d13e0800000000000000
+      internalID: -2081386314890286403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ [red]_13
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 31
+        width: 36
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c620a418c388a0660800000000000000
+      internalID: 7352839135084282476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ [red]_14
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 31
+        width: 36
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 567f5e38717efbf10800000000000000
+      internalID: 2287801223910651749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_ [red]_15
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 48
+        width: 32
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db19f4ab7f3e1bc40800000000000000
+      internalID: 5526448870882513341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
