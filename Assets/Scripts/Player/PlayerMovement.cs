@@ -3,10 +3,13 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Events;
 
+[RequireComponent(typeof(Rigidbody2D))]
 public class PlayerMovement : MonoBehaviour
 {
     [SerializeField] private Joystick _joystick;
     [SerializeField] private float _speed;
+
+    private Rigidbody2D _rigidbody;
 
     public float LookDirection { get; private set; }
 
@@ -14,6 +17,8 @@ public class PlayerMovement : MonoBehaviour
 
     private void Start()
     {
+        _rigidbody = GetComponent<Rigidbody2D>();
+
         LookDirection = 1;
     }
 
@@ -26,15 +31,16 @@ public class PlayerMovement : MonoBehaviour
 
         var targetVector = _joystick.Direction;
 
-        MoveTowardTarget(targetVector);
-
+        _rigidbody.velocity = new Vector2(_joystick.Horizontal, _joystick.Vertical) * _speed;
+         
         Moved?.Invoke(targetVector != Vector2.zero);
     }
 
-    private void MoveTowardTarget(Vector3 targetVector)
+    private void MoveTowardTarget(Vector2 targetVector)
     {
         var speed = _speed * Time.deltaTime;
-        transform.Translate(targetVector * speed);
+
+        _rigidbody.MovePosition(_rigidbody.position + targetVector * _speed * Time.deltaTime);
     }
 
     private float CalculateLookDirection(float direction)

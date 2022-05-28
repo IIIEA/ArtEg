@@ -6,6 +6,9 @@ public class PlayerAnimationSetter : MonoBehaviour, IAnimationSetter
     [SerializeField] private Animator _animator;
     [SerializeField] private PlayerMovement _playerMovement;
 
+    [Header("Particles")]
+    [SerializeField] private ParticleSystem _runParticles;
+
     private string _currentAnimationState;
 
     private void OnEnable()
@@ -38,10 +41,16 @@ public class PlayerAnimationSetter : MonoBehaviour, IAnimationSetter
         if (isMoving)
         {
             SetAnimationState(AnimationsState.Run.ToString());
+
+            if (_runParticles.isPlaying != true)
+            {
+                _runParticles.Play();
+            }
         }
         else
         {
             SetAnimationState(AnimationsState.Idle.ToString());
+            _runParticles.Stop();
         }
     }
 }
