@@ -9,7 +9,6 @@ INCLUDE globals.ink
     * [Да]
         Спасибо тебе большое, давай я тебя отблагодарю?
         ** [Знакомы?]
-        ...
         -> rightAnswer
     * [Саске мой]
         Aртур, всё ок? 
@@ -19,6 +18,6 @@ INCLUDE globals.ink
         -> DONE
         
 === rightAnswer ===
-Take money bro #rightAnswer:true
+... #rightAnswer:true
 
 -> END

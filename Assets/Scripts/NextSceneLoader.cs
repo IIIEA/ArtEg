@@ -7,7 +7,7 @@ public class NextSceneLoader : MonoBehaviour
     {
         if(collision.TryGetComponent<Wallet>(out Wallet wallet))
         {
-            if(wallet.Amount == 300)
+            if(wallet.Amount >= 300)
             {
                 SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
             }
