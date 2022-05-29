@@ -1,10 +1,11 @@
 using UnityEngine;
 
-public class EnterDialogueButton : MonoBehaviour
+public class DialogueButton : MonoBehaviour
 {
     private bool _interactPressed;
+    private bool _submitPressed;
 
-    private static EnterDialogueButton _instance;
+    private static DialogueButton _instance;
 
     private void Awake()
     {
@@ -16,7 +17,7 @@ public class EnterDialogueButton : MonoBehaviour
         _instance = this;
     }
 
-    public static EnterDialogueButton GetInstance()
+    public static DialogueButton GetInstance()
     {
         return _instance;
     }
@@ -30,6 +31,18 @@ public class EnterDialogueButton : MonoBehaviour
     {
         bool result = _interactPressed;
         _interactPressed = false;
+        return result;
+    }
+
+    public void SubmitPressed()
+    {
+        _submitPressed = true;
+    }
+
+    public bool GetSubmitPressed()
+    {
+        bool result = _submitPressed;
+        _submitPressed = false;
         return result;
     }
 }

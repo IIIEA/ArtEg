@@ -23,7 +23,7 @@ public class DialogueTrigger : MonoBehaviour
         {
             _visualCue.gameObject.SetActive(true);
 
-            if (EnterDialogueButton.GetInstance().GetInteractPressed())
+            if (DialogueButton.GetInstance().GetInteractPressed())
             {
                 DialogueManager.GetInstance().EnterDialogueMode(_inkJSON);
             }
