@@ -8,6 +8,7 @@ public class PlayerMovement : MonoBehaviour
 {
     [SerializeField] private Joystick _joystick;
     [SerializeField] private float _speed;
+    [SerializeField] private bool _enableDialogue;
 
     private Rigidbody2D _rigidbody;
 
@@ -24,9 +25,12 @@ public class PlayerMovement : MonoBehaviour
 
     private void Update()
     {
-        if (DialogueManager.GetInstance().DialogueIsPlaying)
+        if (_enableDialogue)
         {
-            return;
+            if (DialogueManager.GetInstance().DialogueIsPlaying)
+            {
+                return;
+            }
         }
 
         if (_joystick.Horizontal != 0)
