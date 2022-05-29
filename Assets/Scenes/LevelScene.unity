@@ -682,8 +682,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: 
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: c1482dbce654844b9ba1c753cbea5d80, type: 2}
-  m_sharedMaterial: {fileID: 7374927986402738804, guid: c1482dbce654844b9ba1c753cbea5d80, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: ce5dceb990c74bc41a3f39cc873e338b, type: 2}
+  m_sharedMaterial: {fileID: 2448726177833643952, guid: ce5dceb990c74bc41a3f39cc873e338b, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -29486,8 +29486,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: 
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: c1482dbce654844b9ba1c753cbea5d80, type: 2}
-  m_sharedMaterial: {fileID: 7374927986402738804, guid: c1482dbce654844b9ba1c753cbea5d80, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: ce5dceb990c74bc41a3f39cc873e338b, type: 2}
+  m_sharedMaterial: {fileID: 2448726177833643952, guid: ce5dceb990c74bc41a3f39cc873e338b, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -34370,6 +34370,23 @@ ParticleSystem:
         m_PostInfinity: 2
         m_RotationOrder: 4
     vectorLabel1_3: W
+--- !u!1 &514857159 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8722216144447062202, guid: 59b930f6d249f7744ad73867af0b2fa0, type: 3}
+  m_PrefabInstance: {fileID: 8722216143608593257}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &514857160
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 514857159}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe98b21b6610bfd45b1fce7d05100682, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &517268006
 GameObject:
   m_ObjectHideFlags: 0
@@ -34901,8 +34918,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: 
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: c1482dbce654844b9ba1c753cbea5d80, type: 2}
-  m_sharedMaterial: {fileID: 7374927986402738804, guid: c1482dbce654844b9ba1c753cbea5d80, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: ce5dceb990c74bc41a3f39cc873e338b, type: 2}
+  m_sharedMaterial: {fileID: 2448726177833643952, guid: ce5dceb990c74bc41a3f39cc873e338b, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -35144,8 +35161,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: 
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: c1482dbce654844b9ba1c753cbea5d80, type: 2}
-  m_sharedMaterial: {fileID: 7374927986402738804, guid: c1482dbce654844b9ba1c753cbea5d80, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: ce5dceb990c74bc41a3f39cc873e338b, type: 2}
+  m_sharedMaterial: {fileID: 2448726177833643952, guid: ce5dceb990c74bc41a3f39cc873e338b, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -36349,6 +36366,7 @@ GameObject:
   - component: {fileID: 972185878}
   - component: {fileID: 972185880}
   - component: {fileID: 972185879}
+  - component: {fileID: 972185881}
   m_Layer: 5
   m_Name: CountText
   m_TagString: Untagged
@@ -36472,6 +36490,19 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 972185877}
   m_CullTransparentMesh: 1
+--- !u!114 &972185881
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 972185877}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8d9c4cac7867244b963d21f781681a1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _wallet: {fileID: 1834301051}
 --- !u!1001 &1075581225
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -37236,6 +37267,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _joystick: {fileID: 223943322}
+  _wallet: {fileID: 1834301051}
   _dialoguePanel: {fileID: 517268006}
   _dialogueText: {fileID: 628816380}
   _choices:
@@ -37380,8 +37412,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: 
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: c1482dbce654844b9ba1c753cbea5d80, type: 2}
-  m_sharedMaterial: {fileID: 7374927986402738804, guid: c1482dbce654844b9ba1c753cbea5d80, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: ce5dceb990c74bc41a3f39cc873e338b, type: 2}
+  m_sharedMaterial: {fileID: 2448726177833643952, guid: ce5dceb990c74bc41a3f39cc873e338b, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -73973,6 +74005,7 @@ GameObject:
   - component: {fileID: 1834301048}
   - component: {fileID: 1834301049}
   - component: {fileID: 1834301050}
+  - component: {fileID: 1834301051}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -74071,6 +74104,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _dialugueButton: {fileID: 164597562}
+--- !u!114 &1834301051
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1834301044}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 938ec1bc12643da41be05b6912f8afc2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &1850673887
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -74181,7 +74226,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 269328b7d413b634cb88617b5d07df5c, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 0.02
+  m_Volume: 0.25
   m_Pitch: 1
   Loop: 1
   Mute: 0
@@ -75322,18 +75367,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 945767141}
     m_Modifications:
-    - target: {fileID: 3012524814462775650, guid: 0cdf3159440d39c41873529e334b3967, type: 3}
-      propertyPath: m_FlipX
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 3012524814472851220, guid: 0cdf3159440d39c41873529e334b3967, type: 3}
-      propertyPath: m_Radius
-      value: 1.9684235
-      objectReference: {fileID: 0}
-    - target: {fileID: 3012524814472851220, guid: 0cdf3159440d39c41873529e334b3967, type: 3}
-      propertyPath: m_Offset.x
-      value: -0.0681293
-      objectReference: {fileID: 0}
     - target: {fileID: 3012524814472851242, guid: 0cdf3159440d39c41873529e334b3967, type: 3}
       propertyPath: m_RootOrder
       value: 7

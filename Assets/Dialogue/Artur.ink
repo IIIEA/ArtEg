@@ -1,3 +1,7 @@
+INCLUDE globals.ink
+
+#rightAnswer:false
+
 -> main
 
 === main ===
@@ -8,11 +12,16 @@
         И я Аянами Рэй
         *** [Выходит мы оба Аянами Рэй]
         Получается так
-        -> DONE
+        **** [Но я всё равно лучше]
+        -> rightAnswer
     * [Миллиардер, филантроп, гений, плэйбой]
         ...
         -> DONE
     * [Гей]
         Сегодня в 8.00 приходи. Тусовка в главном здании.
         -> DONE
+        
+=== rightAnswer ===
+Take money bro #rightAnswer:true
+
 -> END

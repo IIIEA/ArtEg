@@ -1,3 +1,7 @@
+INCLUDE globals.ink
+
+#rightAnswer:false
+
 -> main
 
 === main ===
@@ -12,5 +16,9 @@ SAVE THE QUEEN!!! Htf-HTF-hTF
         Друг
         **[Да, друг]
             Спасибо друг, миру мир, peace.        
-        -> DONE
+        -> rightAnswer
+        
+=== rightAnswer ===
+Take money bro #rightAnswer:true
+
 -> END

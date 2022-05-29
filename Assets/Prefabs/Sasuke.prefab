@@ -93,7 +93,7 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: -2499854259337487684, guid: a06d61eccd09e684f9f81f78e5638759, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_FlipX: 0
+  m_FlipX: 1
   m_FlipY: 0
   m_DrawMode: 0
   m_Size: {x: 0.48, y: 0.67}
@@ -151,7 +151,7 @@ CircleCollider2D:
   m_UsedByComposite: 0
   m_Offset: {x: -0.0681293, y: 0.6557442}
   serializedVersion: 2
-  m_Radius: 1.05355
+  m_Radius: 1.9684235
 --- !u!114 &3012524814472851221
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -165,7 +165,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _visualCue: {fileID: 3012524815201839190}
-  _inkJSON: {fileID: 4900000, guid: 9a2921afcfa87b442acb7cd26dcbab6d, type: 3}
+  _inkJSON: {fileID: 4900000, guid: 9addf9b289979394fb2283e114d0da19, type: 3}
 --- !u!1 &3012524815201839191
 GameObject:
   m_ObjectHideFlags: 0

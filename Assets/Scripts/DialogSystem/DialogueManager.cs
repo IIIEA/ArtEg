@@ -2,13 +2,13 @@ using TMPro;
 using UnityEngine;
 using Ink.Runtime;
 using System.Collections.Generic;
-using UnityEngine.EventSystems;
-using System.Collections;
+using UnityEngine.Events;
 
 public class DialogueManager : MonoBehaviour
 {
     [Header("Links")]
     [SerializeField] private GameObject _joystick;
+    [SerializeField] private Wallet _wallet;
     [Header("Dialogue UI")]
     [SerializeField] private GameObject _dialoguePanel;
     [SerializeField] private TMP_Text _dialogueText;
@@ -20,8 +20,11 @@ public class DialogueManager : MonoBehaviour
     private TMP_Text[] _choicesText;
     private Story _currentStory;
 
+    private const string RightAnswerTag = "true";
+
     public bool DialogueIsPlaying { get; private set; }
 
+    public UnityAction RightAnswerReached;
 
     private void Awake()
     {
@@ -50,7 +53,7 @@ public class DialogueManager : MonoBehaviour
 
     private void Update()
     {
-        if(DialogueIsPlaying == false)
+        if (DialogueIsPlaying == false)
         {
             return;
         }
@@ -94,12 +97,35 @@ public class DialogueManager : MonoBehaviour
     {
         if (_currentStory.canContinue)
         {
-            _dialogueText.text = _currentStory.Continue();
+            _dialogueText.text = _currentStory.Continue(); 
             DisplayChoices();
+
+            HandleTags(_currentStory.currentTags);
         }
         else
         {
             ExitDialogueMode();
+        }
+    }
+
+    private void HandleTags(List<string> currentTags)
+    {
+        foreach (string tag in currentTags)
+        {
+            string[] splitTag = tag.Split(':');
+
+            if(splitTag.Length != 2)
+            {
+                Debug.Log("Error");
+            }
+
+            string tagValue = splitTag[1].Trim();
+
+            if(tagValue == RightAnswerTag)
+            {
+                _wallet.AddMoney(50);
+                RightAnswerReached?.Invoke();
+            }
         }
     }
 

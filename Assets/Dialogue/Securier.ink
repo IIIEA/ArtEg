@@ -1,3 +1,5 @@
+INCLUDE globals.ink
+
 -> main
 
 === main ===
@@ -10,5 +12,8 @@ Enter 300 hagrid bucks
         -> DONE
     * [Can I use my ass]
         Yes, but later
+        -> DONE
+    * [Где мне их взять?]
+        Stick ur finger in the ass, and go search around
         -> DONE
 -> END

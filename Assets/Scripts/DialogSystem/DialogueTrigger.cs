@@ -34,10 +34,16 @@ public class DialogueTrigger : MonoBehaviour
         }
     }
 
+    private void OnDisable()
+    {
+        DialogueManager.GetInstance().RightAnswerReached -= OnRightAnswerReached;
+    }
+
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if(collision.TryGetComponent<IInteraction>(out IInteraction interaction))
         {
+            DialogueManager.GetInstance().RightAnswerReached += OnRightAnswerReached;
             interaction.StartInteract();
             _playerInRange = true;
         }
@@ -47,8 +53,14 @@ public class DialogueTrigger : MonoBehaviour
     {
         if (collision.TryGetComponent<IInteraction>(out IInteraction interaction))
         {
+            DialogueManager.GetInstance().RightAnswerReached -= OnRightAnswerReached;
             interaction.EndInteract();
             _playerInRange = false;
         }
+    }
+
+    private void OnRightAnswerReached()
+    {
+        gameObject.SetActive(false);
     }
 }
